@@ -1,0 +1,6 @@
+{
+  "name": "Hệ thống Đánh giá DFMEA & PFMEA",
+  "description": "Ứng dụng đánh giá DFMEA và PFMEA với gợi ý rủi ro tự động từ dữ liệu lịch sử, tính điểm RPN, đề xuất đối sách AI, phân loại danh mục sản phẩm và xuất báo cáo PDF/Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
